@@ -1,0 +1,29 @@
+{
+	"name": "react-intro",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"build": "webpack",
+		"serve": "webpack-dev-server --colors"
+	},
+	"dependencies": {
+		"bootstrap": "^3.3.7",
+		"react": "^16.2.0",
+		"react-bootstrap": "^0.31.5",
+		"react-dom": "^16.2.0",
+		"react-scripts-ts": "2.8.0"
+	},
+	"devDependencies": {
+		"@types/node": "^8.5.2",
+		"@types/react": "^16.0.31",
+		"@types/react-bootstrap": "^0.31.8",
+		"@types/react-dom": "^16.0.3",
+		"css-loader": "^0.28.7",
+		"source-map-loader": "^0.2.3",
+		"style-loader": "^0.19.1",
+		"ts-loader": "^3.2.0",
+		"typescript": "^2.6.2",
+		"webpack": "^3.10.0",
+		"webpack-dev-server": "^2.9.7"
+	}
+}
